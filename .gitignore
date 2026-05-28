@@ -1,0 +1,13 @@
+﻿dataset/
+train/
+test/
+valid/
+validation/
+*.jpg
+*.jpeg
+*.png
+*.bmp
+mp_env/
+dataset/
+asl_alphabet_test/
+__pycache__/
