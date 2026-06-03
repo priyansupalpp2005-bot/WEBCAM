@@ -8,6 +8,6 @@ validation/
 *.png
 *.bmp
 mp_env/
-dataset/
-asl_alphabet_test/
 __pycache__/
+*.pyc
+history.txt

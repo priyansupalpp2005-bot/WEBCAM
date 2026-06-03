@@ -1,8 +1,0 @@
-tensorflow
-mediapipe
-opencv-python
-pandas
-scikit-learn
-matplotlib
-pyttsx3
-numpys
